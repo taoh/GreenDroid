@@ -135,7 +135,7 @@
 	</declare-styleable>
 
 	<declare-styleable name="SubtitleItem">
-		<attr name="subtitle" format="string" />
+		<attr name="gd_subtitle" format="string" />
 	</declare-styleable>
 
 	<declare-styleable name="SubtextItem">
@@ -161,7 +161,7 @@
 
 	<!-- ActionBar related attributes -->
 	<declare-styleable name="ActionBar">
-		<attr name="title" format="string" />
+		<attr name="gd_title" format="string" />
 		<attr name="type">
 			<enum name="normal" value="0" />
 			<enum name="dashboard" value="1" />
